@@ -36,3 +36,5 @@ impl EventHandler for MainState {
     }
 }
 ```
+
+You can see more on [examples](https://github.com/alimulap/camera2d_ggez/tree/main/examples) to use it properly
